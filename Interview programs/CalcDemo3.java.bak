@@ -1,0 +1,5 @@
+package MyPackage;
+public class CalcDemo3
+{
+	public void div() {System.out.println("Division is performed");}
+}

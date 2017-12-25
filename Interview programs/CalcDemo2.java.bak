@@ -1,0 +1,5 @@
+package MyPackage;
+public class CalcDemo2
+{
+	public void mul() {System.out.println("Multiplication is performed");}
+}
